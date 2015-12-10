@@ -10,3 +10,5 @@ ZALO is server code folder
 RealTimechat is Android code project.
 You need to install NodeJS: nodejs.org && git-scm.com.
 
+added code on 10/12/2105
+
