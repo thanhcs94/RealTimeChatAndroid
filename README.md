@@ -6,8 +6,8 @@ http://khoapham.vn/KhoaPhamTraining/nodejs/snippet/</br>
 
 
 //Notice
-ZALO is server code folder
-RealTimechat is Android code project.
+ZALO is server code folder<br>
+RealTimechat is Android code project.</br>
 You need to install NodeJS: nodejs.org && git-scm.com.
 
 added code on 10/12/2105
